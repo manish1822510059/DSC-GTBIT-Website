@@ -1,4 +1,5 @@
-# DSC Website
+
+<h1 align ="center"> DSC Website</h1>
 Link for the development server: 
 <Br>
 https://dscgtbit.herokuapp.com
